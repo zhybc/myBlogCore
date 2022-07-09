@@ -20,26 +20,26 @@ description: 利用Typroa+PicGo+Gitee搭建图床
 
 1. Gitee创建一个 **公开** 的空仓库作为图床
 
-2. 生成令牌![image-20220319135024958](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/image-20220319135024958.png)
+2. 生成令牌![image-20220319135024958](../../images/gitee图床/gitee图床/image-20220319135024958.png)
 
    **权限设置**
 
-![image-20220319135206100](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/image-20220319135206100.png)
+![image-20220319135206100](../../images/gitee图床/image-20220319135206100.png)
 
 
 
 ## Picgo 配置
 
-1. 下载gitee-uploader![image-20220319135412432](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/image-20220319135412432.png)
+1. 下载gitee-uploader![image-20220319135412432](../../images/gitee图床/image-20220319135412432.png)
 
    或者 上传本地插件
 
 2. 配置gitee
 
-![image-20220319135614114](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/image-20220319135614114.png)
+![image-20220319135614114](../../images/gitee图床/image-20220319135614114.png)
 
 ## Typora
 
-1. ![image-20220319135840897](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/image-20220319135840897.png)
+1. ![image-20220319135840897](../../images/gitee图床/image-20220319135840897.png)
 
 ## The End.

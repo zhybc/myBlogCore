@@ -107,9 +107,10 @@ deploy:
   type: git
   repo: https://github.com/zhybc/zhybc.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: master
-  message: "第一个次提交"
+  message: "替换图片"
 
 # images 相对路径
 marked:
   prependRoot: true
   postAsset: true
+
