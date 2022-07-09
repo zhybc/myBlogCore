@@ -871,7 +871,7 @@ footer:
   owner:
     enable: true
     since: 2022
-  custom_text: 框架 Hexo | 主题 Butterfly | v 1.4
+  custom_text: 框架 Hexo | 主题 Butterfly | v 1.5
   copyright: false # Copyright of theme and framework
 
   option:

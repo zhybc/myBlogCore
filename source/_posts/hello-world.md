@@ -1,38 +1,55 @@
 ---
 title: Hello World
+tags:
+  - 初始
+categories:
+  - 默认
+author: 大白菜
+sticky: 999
+date: 2022-03-18 00:28:00
+description: 你好，世界！
+					-----2022年3月18日00:28:02
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+# 你好，世界！
 
-## Quick Start
+[Hello world!]
 
-### Create a new post
+​																		-----2022年3月18日00:28:02
 
-``` bash
-$ hexo new "My New Post"
-```
+-----------------------
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+Todo：
 
-### Run server
+- [ ] SqlSugar ORM - BlogCore
+- [ ] 根据Models生成表
+- [ ] 根据表生成Models
+- [ ] 生成三层
 
-``` bash
-$ hexo server
-```
+-------------------
 
-More info: [Server](https://hexo.io/docs/server.html)
 
-### Generate static files
 
-``` bash
-$ hexo generate
-```
+本站信息：
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+使用`Hexo`搭建，详见[`Hexo`官网](https://hexo.io/zh-cn/docs/):https://hexo.io/zh-cn/docs
 
-### Deploy to remote sites
+主题地址：https://butterfly.js.org/
 
-``` bash
-$ hexo deploy
-```
+部署在`gitee`中，当然你也可以使用`github`，gitee国内加载比较快，但是禁用使用个人域名了。github还是可以的，发布内容后也就是提交Git后，github会自动部署，gitee不会。
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+*第一次使用gitee Pages需要手持身份证照片，审核通过后才可以部署。
+
+Gitee工作台：https://gitee.com/zhy_bc/dashboard/projects
+
+Gitee项目地址：https://gitee.com/zhy_bc/zhy_bc
+
+[![Gitter](https://badges.gitter.im/zhyBlog/community.svg)](https://gitter.im/zhyBlog/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)Chat On Gitter ！！！
+
+The End.
+
+
+
+
+
+
+

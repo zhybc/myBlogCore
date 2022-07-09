@@ -107,7 +107,7 @@ deploy:
   type: git
   repo: https://github.com/zhybc/zhybc.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: master
-  message: "替换图片"
+  message: "替换图片-置顶h！！"
 
 # images 相对路径
 marked:
