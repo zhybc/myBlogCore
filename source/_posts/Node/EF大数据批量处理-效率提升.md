@@ -53,31 +53,31 @@ Saving C:\Users\Administrator\Desktop\de4dot-net35\Z.EntityFramework.Extensions.
 
 3. 按 `Ctrl+Shift+K` 查找 `ValidateLicense`
 
-   ![image-001](https://gitee.com/zhy_bc/my-photo-manage/raw/master/Typora/image-001.png)
+   ![image-001](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/image-001.png)
 
    选择第一个 `ValidateLicense` 双击，然后点击内部的 `LicenseManager.ValidateLicense` ，然后继续点击内部的 `LicenseManager.ValidateLicense` 
 
-![image-002](https://gitee.com/zhy_bc/my-photo-manage/raw/master/Typora/image-002.png)
+![image-002](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/image-002.png)
 
 然后点击 `Class278.smethod_10` 
 
-![image-003](https://gitee.com/zhy_bc/my-photo-manage/raw/master/Typora/image-003.png)
+![image-003](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/image-003.png)
 
 然后点击 `Class278.smethod_11` 
 
-![image-004](https://gitee.com/zhy_bc/my-photo-manage/raw/master/Typora/image-004.png)
+![image-004](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/image-004.png)
 
 然后点击 `Class278.smethod_7` 
 
-![image-005](https://gitee.com/zhy_bc/my-photo-manage/raw/master/Typora/image-005.png)
+![image-005](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/image-005.png)
 
 最终找到时间判断
 
-![image-006](https://gitee.com/zhy_bc/my-photo-manage/raw/master/Typora/image-006.png)
+![image-006](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/image-006.png)
 
 保存
 
-![image-007](D:\客户端\MyBlog\myblog-code\source\images\EF大数据批量处理-效率提升\image-007.png)
+![image-007](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/image-007.png)
 
 4. 重命名，然后项目直接添加引用即可
 
@@ -86,3 +86,5 @@ Saving C:\Users\Administrator\Desktop\de4dot-net35\Z.EntityFramework.Extensions.
 > 以上修改方法，根据版本迭代修改方法略有不同。
 >
 > 附上已经修改文件：
+
+## The end.

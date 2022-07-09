@@ -30,12 +30,12 @@ options.IncludeXmlComments(xmlPath, true);//显示控制器层注释
 
 如图：
 
-![image-20220410020403079](https://gitee.com/zhy_bc/my-photo-manage/raw/master/Typora/SwaggerUi-image-1.png)
+![image-20220709125226621](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/image-20220709125226621.png)
 
 ##  设置属性-勾选文档生成
 
 > 错误代码取消1591显示
 
-![image-20220410020605065](https://gitee.com/zhy_bc/my-photo-manage/raw/master/Typora/swagger-image-2.png)
+![image-20220709125754112](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/image-20220709125754112.png)
 
-The End.
+## The End.

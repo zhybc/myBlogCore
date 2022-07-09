@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -108,3 +108,8 @@ deploy:
   repo: https://github.com/zhybc/zhybc.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: master
   message: "第一个次提交"
+
+# images 相对路径
+marked:
+  prependRoot: true
+  postAsset: true

@@ -52,7 +52,7 @@ adb devices会获取模拟器列表，指定模拟器只需要在adb后面加上
 
 下面图片是我本地的
 
-![20201204141422735](https://gitee.com/zhy_bc/my-photo-manage/raw/master/Typora/20201204141422735.png)
+![20201204141422735](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/20201204141422735.png)
 
 4. 重新挂载模拟器   
 
@@ -62,15 +62,15 @@ adb -s emulator-5556 remount
 
 5. 将模拟器hosts pull到本地目录C:\Users\Administrator
 
-![20201204141707851](https://gitee.com/zhy_bc/my-photo-manage/raw/master/Typora/20201204141707851.png)
+   ![20201204141707851](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/20201204141707851.png)
 
 6. 在本地用记事本打开hosts文件(在C:\Users\Administrator文件中 ) 修改hosts文件，然后保存
 
-   ![6a5efc7b62c6a2d51c73a18d8fc7ce6f](https://gitee.com/zhy_bc/my-photo-manage/raw/master/Typora/6a5efc7b62c6a2d51c73a18d8fc7ce6f.png)
+   ![6a5efc7b62c6a2d51c73a18d8fc7ce6f](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/6a5efc7b62c6a2d51c73a18d8fc7ce6f.png)
 
 7. 将修改后的hosts文件上传到模拟器
 
-![image-20220320122731087](https://gitee.com/zhy_bc/my-photo-manage/raw/master/Typora/image-20220320122731087.png)
+![image-20220320122731087](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/image-20220320122731087.png)
 
 上传成功
 
@@ -80,11 +80,11 @@ adb -s emulator-5556 remount
 
 - 重新配置的hosts上传到模拟器上,结果现在可以了
 
-<img src="https://gitee.com/zhy_bc/my-photo-manage/raw/master/Typora/image-20220320112458296.png" alt="image-20220320112458296" style="zoom:67%;" />
+![image-20220320112458296](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/image-20220320112458296.png)
 
 - 下面的是我的桥接配置
 
-<img src="https://gitee.com/zhy_bc/my-photo-manage/raw/master/Typora/image-20220320112655602.png" alt="image-20220320112655602" style="zoom:67%;" />
+![image-20220320112655602](http://reqj6ffi8.hn-bkt.clouddn.com/blogimages/image-20220320112655602.png)
 
 =================================================================================================
 
