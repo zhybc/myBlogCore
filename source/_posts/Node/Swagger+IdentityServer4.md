@@ -10,6 +10,7 @@ categories:
   - [笔记,oauth2]
 tags: [笔记,.net,Swagger,ids4,IdentityServer,oauth2]
 author: 大白菜
+cover: false
 description: Swagger+IdentityServer4,Swashbuckle,Nswag
 group: post_Node
 ---

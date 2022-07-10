@@ -2,9 +2,11 @@
 title: Gitee搭建图床
 date: 2022-03-20
 updated: 2022-4-10
-categories: [教程]
+categories: 
+  - [教程]
 tags: [教程]
 author: 大白菜
+cover: false
 thumbnail: "true"
 headimg: https://gitee.com/zhy_bc/my-photo-manage/raw/master/Typora/20220319174121.png
 description: 利用Typroa+PicGo+Gitee搭建图床

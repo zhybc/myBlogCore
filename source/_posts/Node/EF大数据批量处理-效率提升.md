@@ -5,6 +5,7 @@ categories:
   - [笔记,Z. EntityFramework,反编译]
 tags: [笔记,Z. EntityFramework, EntityFramework,反编译]
 author: 大白菜
+cover: false
 group: post_Node
 description: Z. EntityFramework，EF大数据批量-效率提升
 ---

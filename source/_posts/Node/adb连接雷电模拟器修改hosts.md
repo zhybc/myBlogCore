@@ -8,6 +8,7 @@ categories:
   - [笔记,配置]
 tags: [笔记,网络,雷电模拟器,配置]
 author: 大白菜
+cover: false
 description: adb连接雷电模拟器修改hosts
 group: post_Node
 ---

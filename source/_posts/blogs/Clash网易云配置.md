@@ -7,6 +7,7 @@ categories:
   - [教程,配置]
   - [教程,网易云]
 tags: [教程,clash,配置,网易云]
+cover: false
 author: 大白菜
 description: 适用于Clash的网易云代理配置
 group: post_Node

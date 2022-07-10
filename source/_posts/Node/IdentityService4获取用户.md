@@ -5,8 +5,9 @@ updated: 2022-4-11
 categories: 
   - [笔记,IdentityServer]
   - [笔记,.net]
-tag: [笔记,IdentityServer,.net]
+tags: [笔记,IdentityServer,.net]
 author: 大白菜
+cover: false
 description: Identity Service 4 APi 获取用户信息
 group: post_Node
 ---

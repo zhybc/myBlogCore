@@ -107,7 +107,7 @@ deploy:
   type: git
   repo: https://github.com/zhybc/zhybc.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: master
-  message: "图片，夜间模式调整"
+  message: "调整悬浮效果"
 
 # images 相对路径
 marked:

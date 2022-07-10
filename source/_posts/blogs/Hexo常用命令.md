@@ -7,6 +7,7 @@ categories:
   - [教程,命令]
 tags: [教程,Hexo,命令]
 author: 大白菜
+cover: false
 description: hexo 常用命令
 group: post_Node
 ---

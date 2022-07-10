@@ -8,6 +8,7 @@ categories:
   - [笔记,配置]
 tags: [笔记,.net,Swagger,配置]
 author: 大白菜
+cover: false
 description: .net Core Api 添加注释显示
 group: post_Node
 ---

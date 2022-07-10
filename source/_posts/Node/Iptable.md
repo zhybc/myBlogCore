@@ -5,6 +5,7 @@ categories:
   - [笔记,Iptable,Linux]
 tags: [笔记,Iptabl,Linux]
 author: 大白菜
+cover: false
 group: post_Node
 description: Iptable 详解！
 ---

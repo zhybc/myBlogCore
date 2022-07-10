@@ -85,13 +85,13 @@ avatar:
 # Disable all banner image
 disable_top_img: false
 
-# The banner image of home page
+# The banner image of home page 
 index_img: https://s3.bmp.ovh/imgs/2022/07/10/043d2f4dd3ee7d5b.png # /images/banner/wall-4.png
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://s3.bmp.ovh/imgs/2022/07/10/97ae04f806dfdbff.png # /images/banner/wall-3.png
+default_top_img: https://s3.bmp.ovh/imgs/2022/07/10/032240dc6ce218a6.png # /images/banner/wall-3.png
 
-# The banner image of archive page
+# The banner image of archive page | 存档页
 archive_img: https://s3.bmp.ovh/imgs/2022/07/10/3e08b89eae9befc2.png # /images/banner/wall-2.png
 
 # If the banner of tag page not setting, it will show the top_img
@@ -107,24 +107,25 @@ tag_per_img: https://s3.bmp.ovh/imgs/2022/07/10/032240dc6ce218a6.png # /images/b
 # note: category page, not categories page (子分類頁面的 top_img)
 category_img: https://s3.bmp.ovh/imgs/2022/07/10/3e08b89eae9befc2.png # /images/banner/wall-2.png
 
-# The banner image of category page
+# The banner image of category page | 分类页
 # format:
 #  - category name: xxxxx
 category_per_img: https://s3.bmp.ovh/imgs/2022/07/10/3e08b89eae9befc2.png # /images/banner/wall-2.png
 
 cover:
   # display the cover or not (是否顯示文章封面)
-  index_enable: false # 首页
-  aside_enable: false # 右侧更新
-  archives_enable: false # 时间轴
+  index_enable: true # 首页
+  aside_enable: true # 右侧更新
+  archives_enable: true # 时间轴
   # the position of cover in home page (封面顯示的位置)
   # left/right/both
-  position: left
+  position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
     #- https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
     - https://s3.bmp.ovh/imgs/2022/07/10/032240dc6ce218a6.png # /images/banner/wall-1.png
-    - https://s3.bmp.ovh/imgs/2022/07/10/97ae04f806dfdbff.png # /images/banner/wall-3.png
+    - https://s3.bmp.ovh/imgs/2022/07/10/3e08b89eae9befc2.png # /images/banner/wall-3.png
+    - https://s3.bmp.ovh/imgs/2022/07/10/97ae04f806dfdbff.png
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -872,7 +873,7 @@ footer:
   owner:
     enable: true
     since: 2022
-  custom_text: 框架 Hexo | 主题 Butterfly | v 1.7
+  custom_text: 框架 Hexo | 主题 Butterfly | v 1.8
   copyright: false # Copyright of theme and framework
 
   option:

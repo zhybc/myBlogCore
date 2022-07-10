@@ -8,6 +8,7 @@ categories:
   - [笔记,ids4]
 tags: [笔记,.net,IdentityServer,ids4]
 author: 大白菜
+cover: false
 description: skoruba-Duende.IdentityServer.Admin
 group: post_Node
 ---
