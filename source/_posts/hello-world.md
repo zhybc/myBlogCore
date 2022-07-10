@@ -43,6 +43,10 @@ Gitee工作台：https://gitee.com/zhy_bc/dashboard/projects
 
 Gitee项目地址：https://gitee.com/zhy_bc/zhy_bc
 
+ unicode value of Font Awesome icon：https://fontawesome.com/v5/cheatsheet?from=io
+
+imgUrl：https://www.imgurl.org/vip/manage/upload
+
 [![Gitter](https://badges.gitter.im/zhyBlog/community.svg)](https://gitter.im/zhyBlog/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)Chat On Gitter ！！！
 
 The End.

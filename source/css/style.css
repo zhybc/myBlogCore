@@ -1,0 +1,39 @@
+/* 夜间模式背景 */
+[data-theme='dark'] body{
+    background-color: #161B22;
+}
+
+/* 夜间模式栏目左侧 */
+[data-theme='dark']  #recent-posts > .recent-post-item{
+    background-color: #2f3542; /*2f3542*/
+}
+
+/* 夜间模式右侧文章 */
+[data-theme='dark']  .layout > div:first-child:not(.recent-posts){
+    background-color: #2f3542; /*2f3542*/
+}
+
+
+/* 夜间模式右侧 */
+[data-theme='dark']  #aside-content .card-widget{
+    background-color: #282C34; /* 282C34*/
+}
+
+/* 夜间模式左侧 悬浮效果 */
+[data-theme='dark']  #recent-posts > .recent-post-item:hover{
+    background: rgba(40, 44, 52, 1) !important;
+    transition: all 500ms cubic-bezier(0.32, 1, 0.32, 1) 0ms;
+    box-shadow: rgba(35, 43, 54, 0.188235) 0px 10px 30px, rgba(40, 44, 52.227451) 0px 6px 10px;
+}
+
+/* 夜间模式之前 遮罩 */
+#page-header:not(.not-top-img):before {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+/* 夜间模式 遮罩 */
+[data-theme='dark'] #web_bg:before,
+[data-theme='dark'] #footer:before,
+[data-theme='dark'] #page-header:before {
+    background-color: rgba(0, 0, 0, 0.5);
+}

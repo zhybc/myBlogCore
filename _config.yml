@@ -14,7 +14,7 @@ avatar: https://s2.loli.net/2022/03/18/Itja4W7AYLNkR9p.png
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://comeon.show
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -107,7 +107,7 @@ deploy:
   type: git
   repo: https://github.com/zhybc/zhybc.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: master
-  message: "替换图片-置顶h！！"
+  message: "图片，夜间模式调整"
 
 # images 相对路径
 marked:
