@@ -15,7 +15,7 @@ menu:
   关于: /about/ || fas fa-heart
 # --------------------------------------
 
-highlight_theme: mac # hithtlightCode darker / pale night / light / ocean / mac / mac light / false
+highlight_theme: pale night # hithtlightCode darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
@@ -578,7 +578,7 @@ display_mode: light
 beautify:
   enable: true
   field: site # site/post
-  title-prefix-icon: '\f0c1'
+  title-prefix-icon: '\f0da' # '\f0c1' # 标题图标
   title-prefix-icon-color: '#49B1F5'
 
 # Global font settings
@@ -794,10 +794,10 @@ aplayerInject:
 # position 彈窗位置
 # 可選 top-left / top-center / top-right / bottom-left / bottom-center / bottom-right
 snackbar:
-  enable: false
-  position: bottom-left
+  enable: true
+  position: top-left
   bg_light: '#49b1f5' # The background color of Toast Notification in light mode
-  bg_dark: '#1f1f1f' # The background color of Toast Notification in dark mode
+  bg_dark:  '#00C4B6' #'#1f1f1f' # The background color of Toast Notification in dark mode
 
 # https://instant.page/
 # prefetch (預加載)
@@ -866,6 +866,21 @@ CDN:
   # Custom format
   # For example: https://cdn.staticfile.org/${cdnjs_name}/${version}/${min_cdnjs_file}
   custom_format:
+
+# electric_clock
+electric_clock:
+  enable: false # 开关
+  priority: 5 #过滤器优先权
+  enable_page: page # 应用页面
+  exclude:
+    # - /posts/
+    # - /about/
+  layout: # 挂载容器类型
+    type: class
+    name: sticky_layout
+    index: 0
+  loading: https://fastly.jsdelivr.net/gh/tzy13755126023/BLOG_SOURCE/theme_f/loading.gif #加载动画自定义 
+
 
 # Footer Settings
 # --------------------------------------

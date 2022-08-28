@@ -52,16 +52,20 @@ sudo apt install docker-ce docker-ce-cli containerd.io
 
 # docker-compose 安装
 
+## 方法 - 1
+
 ```shell
 apt-get install docker-compress
 ```
 
-或者
+## 方法 - 2 
 
 1) 拉取
 
+tips：v2.9.0 为版本，可能会失效，以git官网为准。
+
 ```shell
-sudo curl -L "https://github.com/docker/compose/releases/download/1.25.4/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo curl -L "https://github.com/docker/compose/releases/download/v2.9.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 ```
 
 2. 添加权限
