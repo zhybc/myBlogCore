@@ -14,7 +14,7 @@ avatar: https://s2.loli.net/2022/03/18/Itja4W7AYLNkR9p.png
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://comeon.show
+url: http://luckfy.cn/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
